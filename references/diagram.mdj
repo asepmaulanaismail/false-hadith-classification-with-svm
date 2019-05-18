@@ -14363,8 +14363,8 @@
 											"left": 600,
 											"top": 364,
 											"width": 116.29541015625,
-											"height": 26,
-											"text": "New hadith feature",
+											"height": 13,
+											"text": "New hadith vector",
 											"wordWrap": true
 										},
 										{
@@ -14399,7 +14399,7 @@
 									"left": 595,
 									"top": 344,
 									"width": 126.29541015625,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFqyYv/8TnNvlE="
 									},
@@ -15105,7 +15105,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFqyYWljTZzu4Y="
 					},
-					"name": "New hadith feature",
+					"name": "New hadith vector",
 					"ordering": "FIFO"
 				},
 				{
